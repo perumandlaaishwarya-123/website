@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+nav {
+    background-color: aliceblue;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: cornflowerblue;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: brown;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(162, 156, 130);
+    text-align: center;
+}
